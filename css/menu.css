@@ -1,0 +1,72 @@
+body{
+	background-image: url(../img/white.jpg);
+	object-fit: cover;
+}
+/*navbar*/
+.navbar{
+	background-color: #CEE595;
+	border: 1px solid black
+}
+.address{
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+}
+.aguila{
+	font-family: 'Londrina Shadow', cursive;
+	font-size: 80px;
+}
+
+
+a{
+	color: #7E0102;
+	text-decoration: none;
+}
+h4{
+	font-family: 'Mali', cursive;
+	font-size: 33px;
+
+}
+p{
+
+	font-family: 'Cinzel', serif;
+	font-weight: 900;
+	font-size: 18px;
+
+}
+.grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+        font-weight: 900;
+        text-decoration: none;
+        color: #7E0102;
+}
+
+ul li {
+
+	display: inline-block;
+	text-decoration: none;
+	margin-left: 146px;
+	margin-bottom: 0rem;
+	color: #7E0102;
+	font-size: 30px;
+	font-family:'Amatic SC', cursive;
+
+
+
+}
+
+h1{
+	font-family: 'Amatic SC', cursive;
+	font-size: 90px;
+}
+
+.footies{
+	margin-left: -100px;
+	background-color: #CEE595;
+}
+i{
+	margin-left: 33px;
+}
+
