@@ -56,6 +56,16 @@ li{
  z-index: 1;
 
 }
+#tacos{
+	 height: 350px;
+	 width: 350px;
+	
+}
+#drinks{
+	 height: 350px;
+	 width: 350px;
+	
+}
 .grow{
 	margin-left: 225px;
 }
@@ -134,5 +144,57 @@ i{
 @media(max-width: 1179px){
 	li{
 		margin-left: 100px;
+	}
+}
+@media(max-width: 1117px){
+	li{
+		margin-left: 70px;
+	}
+}
+@media(max-width: 1031px){
+	li{
+		margin-left: 50px;
+	}
+}
+@media(max-width: 967px){
+	li{
+		margin-left: 10px;
+	}
+}
+/*The Drinks and Tacos Picture*/
+@media(max-width: 1175px){
+	#tacos{
+		height: 300px;
+		width: 300px;
+	}
+	#drinks{
+		height: 300px;
+		width: 300px;
+	}
+	.stackone{
+		height: 300px;
+		width: 300px;
+	}
+	.stackone2{
+		height: 300px;
+		width: 300px;
+	}
+}
+@media(max-width: 1130px){
+	#tacos{
+		height: 260px;
+		width: 260px;
+	}
+	#drinks{
+		height: 260px;
+		width: 260px;
+	}
+	.stackone{
+		height: 260px;
+		width: 260px;
+	}
+	.stackone2{
+		height: 260px;
+		width: 260px;
 	}
 }
